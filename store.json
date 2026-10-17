@@ -4,13 +4,36 @@
     "name": "WoL Deck",
     "author": "loddi-o",
     "description": "Sveglia e monitora un PC desktop via Wake-on-LAN da ovunque, tramite un piccolo server sempre acceso nella LAN del desktop. Scoperta automatica del server e del PC in stile SteamOS.",
-    "tags": ["wake-on-lan", "utility", "network"],
+    "tags": [
+      "wake-on-lan",
+      "utility",
+      "network"
+    ],
     "image_url": "",
     "versions": [
       {
         "name": "1.2.0",
         "hash": "41f7b3d9b58e3f41a4cb0c0b6d4d154bf5c42353077bca53af411e33cee28a76",
         "artifact": "https://github.com/loddi-o/SteamOS-wol-anywhere/releases/download/v1.2.0/WoL-Deck-1.2.0.zip"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Claude Code",
+    "author": "loddi-o",
+    "description": "Claude Code a schermo intero in Modalità Gioco, aperto dal menu rapido: comandi del controller, dettatura vocale e opzioni rapide per risolvere i problemi dei giochi e del Deck. Richiede Claude Code installato.",
+    "tags": [
+      "ai",
+      "terminal",
+      "utility"
+    ],
+    "image_url": "",
+    "versions": [
+      {
+        "name": "0.2.0",
+        "hash": "2d6f9372843c3be8345c495f48cb0cbfb1edb1e6889bcc4206880d23827912ae",
+        "artifact": "https://raw.githubusercontent.com/loddi-o/decky-store/main/plugins/decky-claude-code-v0.2.0.zip"
       }
     ]
   }

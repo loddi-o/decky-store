@@ -13,3 +13,5 @@ Ogni plugin resta nel proprio repository (codice + release con lo zip); questo r
 ## Aggiungere un nuovo plugin
 
 Aggiungere una voce all'array in `store.json` con lo stesso schema usato per "WoL Deck", puntando alla release (asset zip) del repo del plugin.
+
+I plugin senza un repository proprio (per ora Claude Code) tengono lo zip in `plugins/` di questo repo.
